@@ -1,0 +1,17 @@
+{
+  "packageId": "wpkw9jbvH5St1",
+  "spaceId": "spczdmQDfBAn5",
+  "entry": "./src/index.jsx",
+  "name": {
+    "zh-CN": "数据快照",
+    "en-US": "Snapshot"
+  },
+  "icon": "./package_icon.png",
+  "cover": "./cover.png",
+  "authorIcon": "./author_icon.png",
+  "description": {
+    "zh-CN": "可以存储当前数据状态，并且重新添加",
+    "en-US": "widgetsSnapshot description"
+  },
+  "globalPackageId": "wpkyVrnMm6ymP"
+}
